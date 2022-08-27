@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.1-dev (1:0.92.0+devel+202005110039+9ce7266)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="Specimin.svg"
    viewBox="0 0 1756 1609.3333"
    height="1609.3333"
    width="1756"
    id="svg2"
-   version="1.1">
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs6">
     <rect
@@ -35,15 +35,15 @@
   <sodipodi:namedview
      inkscape:current-layer="g8"
      inkscape:window-maximized="1"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="1132.8345"
-     inkscape:cx="957.67893"
+     inkscape:cy="488.44949"
+     inkscape:cx="958.40347"
      inkscape:zoom="0.59473908"
      showguides="false"
      showgrid="false"
      id="namedview4"
-     inkscape:window-height="1017"
+     inkscape:window-height="1044"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -52,7 +52,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:pagecheckerboard="0" />
   <g
      id="g8"
      inkscape:label="Image"
@@ -71,17 +72,25 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Copperplate CC';-inkscape-font-specification:'Copperplate CC';text-align:center;letter-spacing:1.54598px;word-spacing:0px;white-space:pre;shape-inside:url(#rect16);fill:#24221c"
        id="text14"
        xml:space="preserve"><tspan
-         x="539.39445"
-         y="176.74707"><tspan
-           style="font-size:44.6615px;fill:#24221c">C</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate CC';-inkscape-font-specification:'Copperplate CC';text-align:center;text-anchor:middle;fill:#24221c">haracters in </tspan><tspan
-           style="font-size:44.6615px;fill:#24221c">C</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate CC';-inkscape-font-specification:'Copperplate CC';text-align:center;text-anchor:middle;fill:#24221c">omplete
+         x="539.42715"
+         y="176.74707"
+         id="tspan3624"><tspan
+           style="font-size:44.6615px;font-family:'Copperplate Sans CC';-inkscape-font-specification:'Copperplate Sans CC'"
+           id="tspan3616">C</tspan><tspan
+           style="font-family:'Copperplate Sans CC';-inkscape-font-specification:'Copperplate Sans CC';text-anchor:middle"
+           id="tspan3618">haracters in </tspan><tspan
+           style="font-size:44.6615px;font-family:'Copperplate Sans CC';-inkscape-font-specification:'Copperplate Sans CC'"
+           id="tspan3620">C</tspan><tspan
+           style="font-family:'Copperplate Sans CC';-inkscape-font-specification:'Copperplate Sans CC';text-anchor:middle"
+           id="tspan3622">omplete
 </tspan></tspan><tspan
-         x="816.4658"
-         y="232.57395"><tspan
-           style="font-size:44.6615px;fill:#24221c">F</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate CC';-inkscape-font-specification:'Copperplate CC';text-align:center;text-anchor:middle;fill:#24221c">ont</tspan></tspan></text>
+         x="816.45556"
+         y="232.57395"
+         id="tspan3630"><tspan
+           style="font-size:44.6615px;font-family:'Copperplate Sans CC';-inkscape-font-specification:'Copperplate Sans CC'"
+           id="tspan3626">F</tspan><tspan
+           style="font-family:'Copperplate Sans CC';-inkscape-font-specification:'Copperplate Sans CC';text-anchor:middle"
+           id="tspan3628">ont</tspan></tspan></text>
     <rect
        y="23.499332"
        x="25.640945"
@@ -104,23 +113,33 @@
        id="text863"
        xml:space="preserve"><tspan
          x="176.90234"
-         y="612.48881"><tspan
-           dx="0 0 1.2361412 0 1.2361412 0 1.2361412 0 1.2361107 0 1.2361107 0 1.2361107 0 1.2362328 0 1.2362328"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.667px;font-family:'Copperplate CC';-inkscape-font-specification:'Copperplate CC';text-align:justify;text-anchor:start;fill:#28220b">A b c d e f g h i </tspan></tspan><tspan
+         y="612.48881"
+         id="tspan3634"><tspan
+           dx="0 0 1.2799835 0 1.2799835 0 1.2799835 0 1.279953 0 1.280014 0 1.279953 0 1.279953 0 1.279953"
+           style="font-family:'Copperplate Sans CC';-inkscape-font-specification:'Copperplate Sans CC'"
+           id="tspan3632">A b c d e f g h i </tspan></tspan><tspan
          x="176.90234"
-         y="820.4893"><tspan
-           dx="0 0 16.192532 0 16.192532 0 16.192562 0 16.192532 0 16.192532 0 16.192532 0 16.192532"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.667px;font-family:'Copperplate CC';-inkscape-font-specification:'Copperplate CC';text-align:justify;text-anchor:start;fill:#28220b">j k l m n o p q </tspan></tspan><tspan
+         y="820.4893"
+         id="tspan3638"><tspan
+           dx="0 0 16.240707 0 16.240707 0 16.240707 0 16.240707 0 16.240768 0 16.240646 0 16.240768"
+           style="font-family:'Copperplate Sans CC';-inkscape-font-specification:'Copperplate Sans CC'"
+           id="tspan3636">j k l m n o p q </tspan></tspan><tspan
          x="176.90234"
-         y="1028.4898"><tspan
-           dx="0 0 17.856236 0 17.856228 0 17.856228 0 17.856228 0 17.856289 0 17.856228 0 17.856228"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.667px;font-family:'Copperplate CC';-inkscape-font-specification:'Copperplate CC';text-align:justify;text-anchor:start;fill:#28220b">r s t u v w x y </tspan></tspan><tspan
+         y="1028.4898"
+         id="tspan3642"><tspan
+           dx="0 0 17.944305 0 17.944321 0 17.94429 0 17.94426 0 17.94426 0 17.94426 0.00011444092 17.94426"
+           style="font-family:'Copperplate Sans CC';-inkscape-font-specification:'Copperplate Sans CC'"
+           id="tspan3640">r s t u v w x y </tspan></tspan><tspan
          x="176.90234"
-         y="1236.4903"><tspan
-           dx="0 0 7.9392891 0 7.9392662 0 7.9393272 0 7.9392967 0 7.9392967 0 7.9392357 0 7.9393578 0 7.9392357"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.667px;font-family:'Copperplate CC';-inkscape-font-specification:'Copperplate CC';text-align:justify;text-anchor:start;fill:#28220b">z &amp; $ 1 2 3 4 5 6 </tspan></tspan><tspan
+         y="1236.4903"
+         id="tspan3646"><tspan
+           dx="0 0 7.9879608 0 7.9879608 0 7.9879303 0 7.9878998 0 7.9879608 0 7.9879608 0 7.9879608 0 7.9879608"
+           style="font-family:'Copperplate Sans CC';-inkscape-font-specification:'Copperplate Sans CC'"
+           id="tspan3644">z &amp; $ 1 2 3 4 5 6 </tspan></tspan><tspan
          x="176.90234"
-         y="1444.4908"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.667px;font-family:'Copperplate CC';-inkscape-font-specification:'Copperplate CC';text-align:justify;text-anchor:start;fill:#28220b">7 8 9 0 . , - ' : ; ! ?</tspan></tspan></text>
+         y="1444.4908"
+         id="tspan3650"><tspan
+           style="font-family:'Copperplate Sans CC';-inkscape-font-specification:'Copperplate Sans CC'"
+           id="tspan3648">7 8 9 0 . , - ' : ; ! ?</tspan></tspan></text>
   </g>
 </svg>

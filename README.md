@@ -1,21 +1,15 @@
-Copperplate CC
+Copperplate Sans CC
 ========
-![Picture](https://raw.githubusercontent.com/CowboyCollective/CopperplateCC/master/sources/References/Title.png)
-Copperplate CC is a Copperplate Gothic revival designed by indestructible type* for the Cowboy Collective 
+![Picture](https://raw.githubusercontent.com/CowboyCollective/CopperplateSansCC/master/sources/References/Title.png)
+Copperplate Sans CC is a clone of [Copperplate CC](https://github.com/CowboyCollective/CopperplateCC/) with the serifs removed. 
 
-Copperplate CC is designed and maintained by [Owen Earl](https://ewonrael.github.io/), who is the creator of the font foundry [indestructible type*](http://indestructible-type.github.io) and founding member of the [Cowboy Collective](cowboycollective.cc/).
+For more information on the font visit the [Copperplate CC repository](https://github.com/CowboyCollective/CopperplateCC/).
 
 About
 -----
-Designed by Frederic Goudy in 1902, Copperplate Gothic is an American classic. The mix of simple capital letterforms with delicate serifs feels both sturdy and refined. It has made its way onto business cards, bank windows, and high quality mustard labels.
+Someone reached out to me inquireing about a sans-serif version of this font, and I figured making one by removing the serifs from Copperplate CC wouldn't be too difficult so that's what I've done. There are no other changes to the original other then a slight tweak to the "N".
 
-indestructible type* is joining the Cowboy Collective by making free and open-source digital revivals of classic American typefaces. Copperplate Gothic is a perfect starting place because despite its ubiquity and public domain nature, a free digital revival has yet to be made.
-
-For this project I went back to the source materials. Unfortunately the original drawings were lost in a 1939 fire, but the American Type Founder catalogues from that era provide some insight into the Goudy's design. I wanted to stay true to the source material, so this digitization differs from other versions. Unlike some, there are no small caps by default, as this was not originally present. The serifs are also smaller then most reproductions, and I have elected to keep the somewhat bizarre naming convention that calls the non bold version "heavy".
-
-In some ways this Copperplate is not the one we are all familiar with, but perhaps it is more true to the 1900s spirit.
-
-![Characters](https://raw.githubusercontent.com/CowboyCollective/CopperplateCC/master/sources/References/Specimin.png)
+![Characters](https://raw.githubusercontent.com/CowboyCollective/CopperplateSansCC/master/sources/References/Specimin.png)
 
 Changelog
 ---------

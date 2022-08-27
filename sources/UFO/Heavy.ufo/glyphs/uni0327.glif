@@ -2,6 +2,6 @@
 <glyph name="uni0327" format="2">
   <unicode hex="0327"/>
   <outline>
-    <component base="cedilla" xOffset="-275"/>
+    <component base="cedilla" xOffset="-275.0"/>
   </outline>
 </glyph>

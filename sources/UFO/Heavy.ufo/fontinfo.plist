@@ -11,9 +11,28 @@
     <key>descender</key>
     <integer>-200</integer>
     <key>familyName</key>
-    <string>Copperplate CC</string>
+    <string>Copperplate Sans CC</string>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>decenders</string>
+        <key>y</key>
+        <real>-220.0</real>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Overlap</string>
+        <key>y</key>
+        <real>-10.0</real>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Capital Hight</string>
+        <key>y</key>
+        <real>700.0</real>
+      </dict>
+    </array>
     <key>italicAngle</key>
     <real>0.0</real>
     <key>note</key>
@@ -123,13 +142,10 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameManufacturerURL</key>
     <string>https://CowboyCollective.cc</string>
     <key>openTypeNamePreferredFamilyName</key>
-    <string>Copperplate CC</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 1.000</string>
-    <key>openTypeOS2FamilyClass</key>
+    <string>Copperplate Sans CC</string>
+    <key>openTypeOS2Selection</key>
     <array>
-      <integer>0</integer>
-      <integer>0</integer>
+      <integer>7</integer>
     </array>
     <key>openTypeOS2Type</key>
     <array/>
@@ -149,36 +165,22 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <integer>1030</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>350</integer>
-    <key>postscriptBlueValues</key>
-    <array/>
-    <key>postscriptFamilyBlues</key>
-    <array/>
-    <key>postscriptFamilyOtherBlues</key>
-    <array/>
+    <key>openTypeVheaVertTypoLineGap</key>
+    <integer>0</integer>
     <key>postscriptFontName</key>
-    <string>CopperplateCC</string>
+    <string>CopperplateSansCC</string>
     <key>postscriptFullName</key>
-    <string>Copperplate CC</string>
-    <key>postscriptOtherBlues</key>
-    <array/>
-    <key>postscriptStemSnapH</key>
-    <array/>
-    <key>postscriptStemSnapV</key>
-    <array/>
+    <string>Copperplate Sans CC</string>
+    <key>postscriptSlantAngle</key>
+    <real>0.0</real>
     <key>postscriptUnderlinePosition</key>
-    <integer>-100</integer>
+    <real>-75.0</real>
     <key>postscriptUnderlineThickness</key>
-    <integer>50</integer>
+    <real>50.0</real>
     <key>postscriptWeightName</key>
     <string>Heavy</string>
-    <key>styleMapFamilyName</key>
-    <string>Copperplate CC</string>
-    <key>styleMapStyleName</key>
-    <string>regular</string>
     <key>styleName</key>
     <string>Heavy</string>
-    <key>trademark</key>
-    <string></string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>

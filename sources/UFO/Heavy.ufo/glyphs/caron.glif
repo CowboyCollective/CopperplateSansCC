@@ -2,8 +2,7 @@
 <glyph name="caron" format="2">
   <advance width="384"/>
   <unicode hex="02C7"/>
-  <anchor x="192" y="750" name="_top"/>
   <outline>
-    <component base="circumflex" xScale="-1" yScale="-1" xOffset="384" yOffset="1743"/>
+    <component base="circumflex" xScale="-1.0" yScale="-1.0" xOffset="384.0" yOffset="1743.0"/>
   </outline>
 </glyph>

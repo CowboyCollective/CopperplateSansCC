@@ -4,22 +4,10 @@
   <unicode hex="00D8"/>
   <outline>
     <contour>
-      <point x="35" y="-35" type="line"/>
-      <point x="215" y="-35" type="line"/>
-      <point x="215" y="-50" type="line"/>
-      <point x="35" y="-50" type="line"/>
-    </contour>
-    <contour>
-      <point x="690" y="750" type="line"/>
-      <point x="870" y="750" type="line"/>
-      <point x="870" y="735" type="line"/>
-      <point x="690" y="735" type="line"/>
-    </contour>
-    <contour>
-      <point x="850" y="750" type="line"/>
-      <point x="175" y="-50" type="line"/>
-      <point x="55" y="-50" type="line"/>
-      <point x="730" y="750" type="line"/>
+      <point x="850.0" y="750.0" type="line"/>
+      <point x="175.0" y="-50.0" type="line"/>
+      <point x="55.0" y="-50.0" type="line"/>
+      <point x="730.0" y="750.0" type="line"/>
     </contour>
     <component base="O"/>
   </outline>

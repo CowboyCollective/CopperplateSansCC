@@ -2,6 +2,6 @@
 <glyph name="uni0308" format="2">
   <unicode hex="0308"/>
   <outline>
-    <component base="dieresis" xOffset="-198"/>
+    <component base="dieresis" xOffset="-198.0"/>
   </outline>
 </glyph>

@@ -2,6 +2,6 @@
 <glyph name="uni0302" format="2">
   <unicode hex="0302"/>
   <outline>
-    <component base="circumflex" xOffset="-192"/>
+    <component base="circumflex" xOffset="-192.0"/>
   </outline>
 </glyph>

@@ -2,6 +2,6 @@
 <glyph name="tildecomb" format="2">
   <unicode hex="0303"/>
   <outline>
-    <component base="tilde" xOffset="-224"/>
+    <component base="tilde" xOffset="-224.0"/>
   </outline>
 </glyph>

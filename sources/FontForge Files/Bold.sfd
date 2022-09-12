@@ -1,5 +1,5 @@
 SplineFontDB: 3.2
-FontName: CopperplateSansCC
+FontName: CopperplateSansBoldCC
 FullName: Copperplate Sans CC
 FamilyName: Copperplate Sans CC
 Weight: Bold
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1465610489
-ModificationTime: 1661592267
+ModificationTime: 1662967666
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -70,7 +70,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 7808 16 4
+WinInfo: 48 16 4
 BeginPrivate: 0
 EndPrivate
 Grid

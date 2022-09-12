@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: CopperplateSansCC
-FullName: Copperplate Sans CC
-FamilyName: Copperplate Sans CC
+FontName: CopperplateSansHeavyCC
+FullName: Copperplate Sans Heavy CC
+FamilyName: Copperplate Sans Heavy CC
 Weight: Heavy
 Copyright: Copyright 2020 The Cowboy Collective (https://cowboycollective.cc)
 UComments: "Made with love by indestructible type* for the Cowboy Collective"
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1465610489
-ModificationTime: 1661592248
+ModificationTime: 1662967665
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -70,7 +70,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 7808 16 4
+WinInfo: 48 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -282,15 +282,15 @@ LayerCount: 2
 Fore
 SplineSet
 805 360 m 257
- 805 265 l 257
+ 795 265 l 257
  472 265 l 257
  472 360 l 257
  805 360 l 257
-690 360 m 257
+690 350 m 261
  805 360 l 257
  805 85 l 257
  690 85 l 257
- 690 360 l 257
+ 690 350 l 261
 165 350 m 256
  165 192 279 90 475 90 c 256
  594 90 686 130 745 172 c 257
